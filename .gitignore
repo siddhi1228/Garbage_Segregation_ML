@@ -1,0 +1,10 @@
+
+garbage_dataset/
+waste_classifier_model.h5
+static/
+info.txt
+training_plot.png
+waste_classifier_model.h5
+
+__pycache__/
+*.pyc
